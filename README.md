@@ -1,6 +1,6 @@
-# gismachinetest
+# Flutter QR Scanner | QR Generator | Multi-language English(LTR) and Arabic(RTL)
 
-A new Flutter application.
+A Flutter application. This application can scan and fetch qr code data and generate qr code of given input data. Also this application has 2 languages which are English(LTR) and Arabic(RTL). 
 
 ## Getting Started
 

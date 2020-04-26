@@ -1,0 +1,20 @@
+{
+  "title": "مرحبا!",
+  "message" : "هذه هي اللغة العربي",
+  "drawer_title": "اختبار الآلة",
+  "qr": "ريال قطري",
+  "exit": "خروج",
+  "arabic": "عربى",
+  "english": "الإنجليزية",
+  "phone_input_hint": "أدخل رقم الهاتف",
+  "phone_input_error": "رقم الهاتف غير صحيح",
+  "phone_input_helper_text": "أدخل رقم هاتف لإنشاء رمز الاستجابة السريعة المقابل لها (10-13 رقمًا)",
+  "generate_qr": "توليد QR",
+  "scan": "مسح",
+  "scanner_initial_msg": "مسح شيء لإظهاره",
+  "search_hint": "قاعدة المعرفة",
+  "home": "الصفحة الرئيسية",
+  "outbreak": "التفشي",
+  "chatbot": "شات بوت",
+  "forum": "المنتدى"
+}

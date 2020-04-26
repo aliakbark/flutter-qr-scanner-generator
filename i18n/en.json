@@ -1,0 +1,20 @@
+{
+  "title": "Hello!",
+  "message" : "This is English",
+  "drawer_title": "Machine Test",
+  "qr":"QR",
+  "exit": "Exit",
+  "arabic": "Arabic",
+  "english": "English",
+  "phone_input_hint": "Enter phone number",
+  "phone_input_error": "Invalid phone number",
+  "phone_input_helper_text": "Enter a phone number to generate their corresponding QR(10-13 digits)",
+  "generate_qr": "Generate QR",
+  "scan": "Scan",
+  "scanner_initial_msg": "Scan something to show",
+  "search_hint": "Knowledge base",
+  "home": "Home",
+  "outbreak": "Outbreak",
+  "chatbot": "Chat bot",
+  "forum": "Forum"
+}
